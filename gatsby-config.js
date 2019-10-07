@@ -36,6 +36,7 @@ module.exports = {
         // You can find your read-only API token under the Settings > API tokens
         // section of your administrative area:
         apiToken: `abde6e0d1899534fb8e76ff62420e5`,
+        previewMode: true,
       },
     },
   ],
